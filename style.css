@@ -1,0 +1,14 @@
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
+
+.qr-code-main {
+	height: 100px;
+	width: 100px;
+	background-color: #7f2b2b;
+}
